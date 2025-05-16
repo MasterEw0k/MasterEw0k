@@ -1,3 +1,3 @@
-Hello, I'm MasterEw0K_
+Hello, I'm Seth Jenkins.
 
-I'm currently undergoing some personal projects and should be posting some neato software here soon. Probably games lol. 
+I'm an artist and indie developer. Using GitHub currently for a collaborative indie game project.
